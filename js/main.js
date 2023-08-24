@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const cityCoordinates = {};
 
     // Constants
-    const API_BASE_URL = 'http://www.7timer.info/bin/api.pl';
+    const API_BASE_URL = 'https://www.7timer.info/bin/api.pl';
     const IMAGE_BASE_PATH = 'images/';
 
 
